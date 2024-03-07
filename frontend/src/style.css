@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica,Arial,sans-serif;
+    scroll-behavior: smooth;
+}
+
+.navbar, footer{
+
+    background-color: #121212;
+
+    img {
+        height: 50px;
+        border: 1px solid white;
+        background-color: white;
+        border-radius: 50%;
+    }
+
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+
+    a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        transition: all 2.0s;
+    }
+
+    img {
+        margin: 12px 0 12px 30px;
+    }
+}
+footer {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.logo-text, .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    padding: 25px 16px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.logo-text {
+    font-size: 32px;
+    margin-left: 0;
+}
+
+.nav-tabs {
+
+    background-color: #ccebff;
+    padding: 20px;
+    border-bottom: 1px solid black;
+
+    a {
+        text-decoration: none;
+        color: black;
+        background-color: transparent;
+        font-weight: 700;
+        font-size: 20px;
+    }
+
+    a:hover {
+        opacity: 0.7;
+        border-radius: 700px;
+    }
+
+}
+
+
+.airtable-container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f8f8;
+    padding: 10px;
+}
+
+.airtable {
+    width: 1400px;
+}
+
+.airtable-embed {
+    height: 800px;
+    width: 100%;
+    border: 1px solid lightgray;
+}
+
+.analysis-nav {
+
+    padding: 20px;
+    background-color: #f8f8f8;
+
+    button {
+        font-size: 20px;
+        border: 1px solid black;
+        border-radius: 10px;
+        cursor: pointer;
+        margin-right: 10px;
+        padding: 10px;
+        background-color: inherit;
+    }
+
+    button:hover {
+        opacity: 0.7;
+    }
+}
+
+
+.analysis-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.analysis-container h3 {
+    text-align: left;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.iframe-analysis, .iframe-analysis2 {
+    height: 400px;
+    width: 620px;
+    border: 0
+}
+
+.iframe-analysis2 {
+    width: 800px;
+    height: 500px;
+}
+
+.empty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    height: 100%;
+}
+
+.pretty-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+.pretty-table thead {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.pretty-table th,
+.pretty-table td {
+    padding: 12px 15px;
+}
+
+.pretty-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.pretty-table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.pretty-table th,
+.pretty-table td {
+    border: none;
+}
+
+.pretty-table th {
+    font-weight: bold;
+}
+
+.pretty-table tbody tr:last-child td {
+    border-bottom: none;
+}
