@@ -28,7 +28,10 @@ goormthon training final project
 
 ## 4. Lessons and Future Work
 - 배운 점
+    - 팀워크와 협업: 결원이 발생했을 때 역할분담에서 의견차이가 있을 때 유연하게 대처하는 방법
+    - 프로젝트 관리: 목표가 변경되거나 축소되는 상황에서 프로젝트를 재정비하고 완수하는 경험
 - 향후 계획
-
+    - 프로젝트가 완료되어, 다른 프로젝트에 집중할 예정입니다.
+    
 ## 5. References
-- 최종 슬라이드
+- [최종 슬라이드](https://www.notion.so/LLM-6938a43c85b74ae494f868df2724ba1e?pvs=4#0d0885021b6743f2bd7b84e656e11d88)
