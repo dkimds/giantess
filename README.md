@@ -1,11 +1,11 @@
 # giantess
 goormthon training final project
 
-## Overview
+## 1. Overview
 - 프로젝트 이름: 뉴스와 LLM을 활용한 주식매매 타이밍 시스템
 - 프로젝트 목표: 회사에 대한 뉴스를 바탕으로 감성분석을 수행하여 시장의 매매 경향을 파악하는 기능 구현에 집중하여, 고객이 증권사 보고서를 보고 매도시점을 파악할 수 없는 문제를 해결하는 솔루션을 제공
 
-## Role & Responsibility
+## 2. Role & Responsibility
 1. 김대성
 - 프로젝트 기획
 - 실현가능성 조사
@@ -18,4 +18,17 @@ goormthon training final project
 - 프론트 개발
 - 백엔드 개발
 - 인프라 구축
-4. 초기 6명으로 시작했으나, 결원이 생겨서 주제를 축소하고 역할 재분담
+4. 초기 6명이었으나, 결원이 생겨서 주제를 축소하고 역할 재분담
+
+## 3. Final Deliverables
+- 기능 및 특징
+- 사용 기술 스택
+- 설치 및 실행 방법
+- 스크린샷
+
+## 4. Lessons and Future Work
+- 배운 점
+- 향후 계획
+
+## 5. References
+- 최종 슬라이드
