@@ -47,4 +47,4 @@ goormthon training final project
     - 프로젝트가 완료되어, 다른 프로젝트에 집중할 예정
 
 ## 5. References
-- [최종 슬라이드](https://www.notion.so/LLM-6938a43c85b74ae494f868df2724ba1e?pvs=4#0d0885021b6743f2bd7b84e656e11d88)
+- [최종 슬라이드](https://season-echinodon-e6a.notion.site/LLM-6938a43c85b74ae494f868df2724ba1e)
